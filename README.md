@@ -20,7 +20,7 @@ This project automates the process of sending personalized job application email
 
 1. Open [Google Apps Script](https://script.google.com/).
 2. Create a **new project**.
-3. Copy the contents of [`Code.gs`](Code.gs) into the script editor.
+3. Copy the contents of [`code.gs`](code.gs) into the script editor.
 4. Add the `appsscript.json` configuration file.
 5. Replace the `resumeFileId` in the script with your actual **Google Drive file ID**.
 
